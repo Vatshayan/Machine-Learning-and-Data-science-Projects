@@ -3,24 +3,38 @@
 ## IMAGE PROCESSING/ COMPUTER VISION AND OPENCV
 
 1. Abnormal Event Detection in Videos Using Spatiotemporal Autoencoder
+
 2. Handwritten character recognition using OpenCV
+
 3. Multiple face detection and attendance using Open CV
+
 4. Content based Image retrieval using K-means algorithm
+
 5. Object detection, tracking and alert system for visually impaired persons
+
 6. Realization of Test Paper Score Cumulating System Based On Digital Image Processing
+
 7. Contrast in Haze Removal: Configurable Contrast Enhancement Model Based on Dark Channel Prior
+
 8. Generative Neural Networks for Anomaly Detection in Crowded Scenes - IEEE Transactions on Information Forensics and Security 2019
+
 9. Image Deblurring using Deep neural networks
-10.Detecting Regions of Maximal Divergence for Spatio-Temporal Anomaly Detection - Pattern analysis and machine intelligence IEEE 2019
-11.Hierarchical LSTMs with Adaptive Attention for Visual Captioning
-12.Attention Based Fully Convolutional Network for Speech Emotion Recognition
-13.Sequential Outlier Detection Based on Incremental Decision Trees - Signal Processing, IEEE Feb 2019
-14.Handwritten Hindi character recognition using Neural Networks
-15.Skin lesion classification using hybrid deep neural networks
-16.Traffic and accident prediction for Images and Video using Deep Learning techniques
-17.Text extraction from Audio and Text Classification using Natural Language processing
-18.Tamil character recognition using machine learning techniques
-19.Hindi Audio text extraction (Audio Indexing) and Retrieval
+
+10. Attention Based Fully Convolutional Network for Speech Emotion Recognition
+
+15.Sequential Outlier Detection Based on Incremental Decision Trees - Signal Processing, IEEE Feb 2019
+
+16.Handwritten Hindi character recognition using Neural Networks
+
+17.Skin lesion classification using hybrid deep neural networks
+
+18.Traffic and accident prediction for Images and Video using Deep Learning techniques
+
+19.Text extraction from Audio and Text Classification using Natural Language processing
+
+20.Tamil character recognition using machine learning techniques
+
+21.Hindi Audio text extraction (Audio Indexing) and Retrieval
 
 ## PYTHON / MACHINE LEARNING/ ARTIFICIAL INTELLIGENCE PROJECT TOPICS
 
@@ -37,3 +51,38 @@ DATA SCIENCE WITH MACHINE LEARNING
 8. Personality prediction from real-time tweets using Natural language processing
 9. Cricket match outcome prediction using Decision Tree and Random Forest
 10.Real estate price prediction using machine learning techniques
+
+
+
+
+
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h3 align="center">I'm a Developer from India ❤</h3>
+
+
+
+
+**You Can use this Beautiful Projects for your college Project and get good marks too.**
+
+Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+
+💌 Feel **free** to contact me for any kind of help on any projects.
+ 
+### HOW TO RUN THE PROJECT-
+⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
+
+### 📫 HOW TO REACH ME 
+
+💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
+
+💬 Gmail: **vatshayan007@gmail.com**
+
+I am here to help you, Don't worry Mail or Message me anytime😄
+
+### Liked Project?
+If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
+
+### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
+
+
+
