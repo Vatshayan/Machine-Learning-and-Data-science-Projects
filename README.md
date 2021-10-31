@@ -1,4 +1,4 @@
-# Projects-List-Machine-Learning-and-Data-science
+# Research Paper Based Projects List : Machine Learning & Data Science
 
 ## IMAGE PROCESSING/ COMPUTER VISION AND OPENCV
 
@@ -22,35 +22,35 @@
 
 10. Attention Based Fully Convolutional Network for Speech Emotion Recognition
 
-15.Sequential Outlier Detection Based on Incremental Decision Trees - Signal Processing, IEEE Feb 2019
+15. Sequential Outlier Detection Based on Incremental Decision Trees - Signal Processing, IEEE Feb 2019
 
-16.Handwritten Hindi character recognition using Neural Networks
+16. Handwritten Hindi character recognition using Neural Networks
 
-17.Skin lesion classification using hybrid deep neural networks
+17. Skin lesion classification using hybrid deep neural networks
 
-18.Traffic and accident prediction for Images and Video using Deep Learning techniques
+18. Traffic and accident prediction for Images and Video using Deep Learning techniques
 
-19.Text extraction from Audio and Text Classification using Natural Language processing
+19. Text extraction from Audio and Text Classification using Natural Language processing
 
-20.Tamil character recognition using machine learning techniques
+20. Tamil character recognition using machine learning techniques
 
-21.Hindi Audio text extraction (Audio Indexing) and Retrieval
+21. Hindi Audio text extraction (Audio Indexing) and Retrieval
 
 ## PYTHON / MACHINE LEARNING/ ARTIFICIAL INTELLIGENCE PROJECT TOPICS
 
 (IEEE JOURNAL AND OTHER JOURNALS)
 DATA SCIENCE WITH MACHINE LEARNING
 
-1. Bitcoin Price Prediction using Machine Learning
-2. Fake news detection in social media
-3. Credit fraud detection using machine learning
-4. Liver disease detection using Neural Networks and SVM classification
-5. Detection of phishing attacks using machine learning algorithm
-6. Comparison of machine learning approaches for twitter sentiment analysis
-7. Heart Disease Prediction using K-NN algorithm and Logistics regression
-8. Personality prediction from real-time tweets using Natural language processing
-9. Cricket match outcome prediction using Decision Tree and Random Forest
-10.Real estate price prediction using machine learning techniques
+1.  Bitcoin Price Prediction using Machine Learning
+2.  Fake news detection in social media
+3.  Credit fraud detection using machine learning
+4.  Liver disease detection using Neural Networks and SVM classification
+5.  Detection of phishing attacks using machine learning algorithm
+6.  Comparison of machine learning approaches for twitter sentiment analysis
+7.  Heart Disease Prediction using K-NN algorithm and Logistics regression
+8.  Personality prediction from real-time tweets using Natural language processing
+9.  Cricket match outcome prediction using Decision Tree and Random Forest
+10. Real estate price prediction using machine learning techniques
 
 
 
