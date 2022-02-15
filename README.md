@@ -1,5 +1,9 @@
 # Research Paper Based Projects List : Machine Learning & Data Science
 
+![Research Projects](https://user-images.githubusercontent.com/91561594/154006598-c4ccf4e8-6ffb-479c-8f82-ca922c43b81d.jpg)
+
+## Youtube Video: https://youtu.be/T0wEstYgztU
+
 ## IMAGE PROCESSING/ COMPUTER VISION AND OPENCV
 
 1. Abnormal Event Detection in Videos Using Spatiotemporal Autoencoder
